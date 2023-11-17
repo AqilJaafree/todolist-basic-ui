@@ -1,7 +1,5 @@
 # Simple To do List for react beginner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ![todolist](https://github.com/AqilJaafree/todolist-basic-ui/assets/73504832/3f64dad0-5c71-4e52-8bce-c6bb331cc751)
 
 ## Available Scripts
